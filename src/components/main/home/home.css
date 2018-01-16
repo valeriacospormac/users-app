@@ -1,0 +1,13 @@
+.home-container {
+    max-width: 70%;
+    margin: 5% auto;
+    color: #d9dbda;
+}
+.home-container h1,
+.home-container h4 {
+    text-align: center;
+    color: #fff;
+}
+.home-container p {
+    font-size: 20px;
+}

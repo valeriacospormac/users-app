@@ -1,0 +1,24 @@
+.user-container {
+    color: white;
+    font-size: 2em;
+}
+
+.user-container .user-title {
+    color: #ecc68e;
+}
+.user-container span {
+    margin: 20px;
+}
+
+.user-container button {
+    background-color: #141414;
+    border: none;
+}
+
+.user-container button.edit-user {
+    color: lightskyblue;
+}
+
+.user-container button.remove-user {
+    color: lightcoral;
+}

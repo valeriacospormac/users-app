@@ -1,0 +1,42 @@
+[
+  {
+    "name":"Anastasia Crivat",
+    "age": 23,
+    "phone": 135767435,
+    "email": "anastasia@gmail.com",
+    "gender": "f",
+    "id": 1
+  },
+  {
+    "name":"Petru Postolachi",
+    "age": 43,
+    "phone": 14587735,
+    "email": "petru@gmail.com",
+    "gender": "m",
+    "id": 2
+  },
+  {
+    "name":"Ionel Ivan",
+    "age": 12,
+    "phone": 9767435,
+    "email": "ion@gmail.com",
+    "gender": "m",
+    "id": 3
+  },
+  {
+    "name":"Ana Cristea",
+    "age": 69,
+    "phone": 867435,
+    "email": "ana@gmail.com",
+    "gender": "f",
+    "id": 4
+  },
+  {
+    "name":"Lavinia Goster",
+    "age": 33,
+    "phone": 165467435,
+    "email": "lavinia@gmail.com",
+    "gender": "f",
+    "id": 5
+  }
+]

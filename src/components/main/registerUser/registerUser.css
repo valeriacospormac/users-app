@@ -1,0 +1,28 @@
+.register-user {
+    margin: 5em auto;
+    font-size: 20px;
+    width: 60%;
+}
+
+.register-user input {
+    background-color: #141414;
+    border: none;
+    border-bottom: 2px solid white;
+    width: 90%;
+    color: #ecc68e;
+    font-size: 40px;
+    text-align: center;
+}
+
+.register-user input:focus {
+    outline: none;
+}
+
+.register-user .submit-button {
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 200px;
+    margin: 2em 0 0 30%;
+}

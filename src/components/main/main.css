@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+}
+.logo {
+    display: flex;
+    align-items: center;
+}
+.logo img {
+    width: 50px;
+}
+.logo p {
+    text-transform: uppercase;
+}
+.navigation-bar {
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+}
+.navigation-bar a {
+    padding-left:10px;
+    color: #fff;
+    text-decoration: none;
+}
+.navigation-bar a:hover {
+    color: #f2d9c8;
+}
